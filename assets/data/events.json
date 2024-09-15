@@ -1,0 +1,44 @@
+{
+    "events": [
+        {
+            "title": "Contemporary Art at the Humboldt Forum",
+            "rating": 4.8,
+            "reviews": 150,
+            "duration": 120,
+            "price": 0,
+            "imageUrl": "https://www.museumsportal-berlin.de/media/exhibitions/zeitgenoessische-kunst-im-humboldt-forum/20221224074202.jpg"
+        },
+        {
+            "title": "ŒLGARTEN - Beers & Bites",
+            "rating": 4.5,
+            "reviews": 200,
+            "duration": 180,
+            "price": 20,
+            "imageUrl": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/7KSfEkrGQgSdChFl3V8A_2zyuiBlYSyGh1Of68zSQ_syed-ahmad-kgjQ1AGDwE0-unsplash.jpg?width=1200&height=900&mode=crop"
+        },
+        {
+            "title": "Views of Berlin's Landmarks at Humboldt Forum",
+            "rating": 4.7,
+            "reviews": 180,
+            "duration": 90,
+            "price": 10,
+            "imageUrl": "https://i0.wp.com/the-past.com/wp-content/uploads/2021/10/post-1_image2-15.jpg?fit=13541077&ssl=1"
+        },
+        {
+            "title": "BAW | Around the Festival Centre - A Guided Tour",
+            "rating": 4.6,
+            "reviews": 120,
+            "duration": 90,
+            "price": 15,
+            "imageUrl": "https://www.visitberlin.de/system/files/styles/visitberlin_hero_visitberlin_desktop_2x/private/event_images/bo-103-55832ac9-340c-e612-7367-81a5ba06a5d8.jpg?h=9994641b&itok=pJnIJ9kS"
+        },
+        {
+            "title": "Wolf at the Chamäleon Theater",
+            "rating": 4.9,
+            "reviews": 250,
+            "duration": 120,
+            "price": 30,
+            "imageUrl": "https://chamaeleonberlin.com/wp-content/uploads/2024/08/Wolf-by-Circa.png"
+        }
+    ]
+}

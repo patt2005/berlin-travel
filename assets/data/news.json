@@ -1,0 +1,74 @@
+{
+    "news": [
+        {
+            "title": "NATO Secretary General Stoltenberg Set to Head Munich Security Conference",
+            "date": "2024-09-14",
+            "category": "Politics",
+            "description": "NATO Secretary General Jens Stoltenberg will become the first non-German to lead the Munich Security Conference.",
+            "imageUrl": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MVDPIOFSMNNPLHWCPHLYBB4RIQ.jpg"
+        },
+        {
+            "title": "German Chancellor Olaf Scholz Calls for Swift Peace in Ukraine",
+            "date": "2024-09-14",
+            "category": "Politics",
+            "description": "German Chancellor Olaf Scholz emphasized the need for renewed diplomatic efforts to end the war in Ukraine.",
+            "imageUrl": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/L56U33J3OZL3HK6VDH2OUTEB5A.jpg"
+        },
+        {
+            "title": "Germany’s Political Landscape Becomes More Fractured",
+            "date": "2024-09-13",
+            "category": "Politics",
+            "description": "The successes of the AfD and BSW in state elections are reshaping the German political system.",
+            "imageUrl": "https://static.dw.com/image/70127279_1006.jpg"
+        },
+        {
+            "title": "Young Women and Girls at Higher Risk of Homelessness in Germany",
+            "date": "2024-09-12",
+            "category": "Society",
+            "description": "Homelessness rates are rising among young women and girls in Germany, drawing attention to social inequalities.",
+            "imageUrl": "https://static.dw.com/image/37158114_605.jpg"
+        },
+        {
+            "title": "Volkswagen’s Economic Troubles and What It Means for Germany",
+            "date": "2024-09-11",
+            "category": "Trade",
+            "description": "Job cuts and plant closures at Volkswagen signal broader challenges for Germany’s economy.",
+            "imageUrl": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/THIKXKYEB5L65JIS2JTTGKWEFM.jpg"
+        },
+        {
+            "title": "Cross-Party Migration Talks in Germany Break Down",
+            "date": "2024-09-10",
+            "category": "Politics",
+            "description": "Migration policy talks collapse as the opposition CDU/CSU refuses further meetings.",
+            "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2024/01/AP24020500338937-1705834789.jpg?resize=1920%2C1080"
+        },
+        {
+            "title": "Berlin Plans New Refugee Accommodation as Centers Fill Up",
+            "date": "2024-09-09",
+            "category": "Society",
+            "description": "Berlin authorities are searching for new solutions to accommodate the rising number of refugees.",
+            "imageUrl": "https://www.containex.com/-/m/containex/references/images/1898/56250/6img0250-custom.jpg?ts=637915522155933330"
+        },
+        {
+            "title": "Secret House Searches for Terrorism Suspects? German Police Want New Powers",
+            "date": "2024-09-08",
+            "category": "Politics",
+            "description": "Germany’s Federal Criminal Police Office proposes secret home searches to fight terrorism.",
+            "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/12/germany-coup-arrests.jpg?w=1581&h=1054&crop=1"
+        },
+        {
+            "title": "Germany's Need for Immigrants Stressed by Chancellor Olaf Scholz",
+            "date": "2024-09-11",
+            "category": "Politics",
+            "description": "German Chancellor Olaf Scholz underlines the country’s reliance on immigrants during talks in the Bundestag.",
+            "imageUrl": "https://static.dw.com/image/70189178_906.jpg"
+        },
+        {
+            "title": "Populist Parties Pressure German Support for Ukraine",
+            "date": "2024-09-07",
+            "category": "Politics",
+            "description": "Far-right parties like the AfD and BSW challenge Germany’s continued support for Ukraine.",
+            "imageUrl": "https://www.politico.eu/cdn-cgi/image/width=1160,height=774,quality=80,onerror=redirect,format=auto/wp-content/uploads/2024/06/06/GettyImages-1243823717-scaled.jpg"
+        }
+    ]
+}
