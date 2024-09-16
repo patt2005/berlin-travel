@@ -92,12 +92,6 @@ class SettingsPage extends StatelessWidget {
             ),
             SizedBox(height: screenSize.height * 0.02),
             _buildSettingsButton(
-              CupertinoIcons.shield,
-              "Privacy Policy",
-              () {},
-            ),
-            SizedBox(height: screenSize.height * 0.02),
-            _buildSettingsButton(
               CupertinoIcons.chat_bubble,
               "Contact us",
               () async {
@@ -107,12 +101,6 @@ class SettingsPage extends StatelessWidget {
                   ),
                 );
               },
-            ),
-            SizedBox(height: screenSize.height * 0.02),
-            _buildSettingsButton(
-              CupertinoIcons.bag,
-              "Developer website",
-              () {},
             ),
             SizedBox(height: screenSize.height * 0.02),
             _buildSettingsButton(

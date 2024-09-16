@@ -155,6 +155,21 @@ class _MainPageState extends State<MainPage> {
                 fit: BoxFit.cover,
               ),
             ),
+            Positioned.fill(
+              child: Container(
+                decoration: BoxDecoration(
+                  gradient: const LinearGradient(
+                    begin: Alignment.topCenter,
+                    end: Alignment.bottomCenter,
+                    colors: [
+                      Colors.transparent,
+                      Colors.black,
+                    ],
+                  ),
+                  borderRadius: BorderRadius.circular(15),
+                ),
+              ),
+            ),
             Positioned(
               bottom: 5,
               right: 5,
