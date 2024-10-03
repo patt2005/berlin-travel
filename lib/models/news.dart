@@ -20,7 +20,7 @@ class News {
       content: jsonData["description"],
       imageUrl: jsonData["imageUrl"],
       category: jsonData["category"],
-      date: DateTime.parse(jsonData["date"]),
+      date: DateTime.parse(jsonData["dat"]),
     );
   }
 }
